@@ -1,7 +1,6 @@
 import Image from "next/image";
 
 export default function Home() {
-   const names = ["Thanks you ", "Sir Ameen Alam ", "Sir Asharib Ali", "Sir Ahmad Raza", "Sir Naeem"]
    return (
       <>
          <div >
